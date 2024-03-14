@@ -21,10 +21,10 @@ function App() {
     <main className="main">
       <h2>CEP: 79003222</h2>
 
-      <span>Rua Teste algum</span>
-      <span>Complemento: Algum complemento</span>
-      <span>Vila Rosa</span>
-      <span>Campo Grande - MS</span>
+      <span>Rua: Gurucaia</span>
+      <span>Complemento: Casa</span>
+      <span>Residêncial Ipê</span>
+      <span>Naviraí - MS</span>
 
     </main>
 
